@@ -16,7 +16,7 @@ I love creating things that can actually do something.
 ### ⚙️ Projects
 | Name | Description | Tech |
 |------|--------------|------|
-| [Mafia's Betrayal](#) | My first school project - creating a game | C#, Unity |
+| [Mafia's Betrayal](#Mafias-Betrayal) | My first school project - creating a game | C#, Unity |
 | [Smart Greenhouse](#) | A dashboard for live plant data that optimizes the plants | Flask, HTML, Python |
 
 ---
