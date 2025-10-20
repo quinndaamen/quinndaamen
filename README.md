@@ -14,10 +14,10 @@ I love creating things that can actually do something.
 ---
 
 ### ⚙️ Projects
-| Name | Description | Tech |
-|------|--------------|------|
-| [Mafia's Betrayal](https://github.com/quinndaamen/Mafias-Betrayal) | My first real tech project — a simple Unity game prototype | C#, Unity |
-| [Smart Greenhouse](#) | A dashboard for live plant data that optimizes the plants | Flask, HTML, Python |
+| Name | Description | Tech | For |
+|------|--------------|------|-----|
+| [Mafia's Betrayal](https://github.com/quinndaamen/Mafias-Betrayal) | My first real tech project — a simple Unity game prototype | C#, Unity | School |
+| [Smart Greenhouse](#) | A dashboard for live plant data that optimizes the plants | Flask, HTML, Python | School |
 
 ---
 
