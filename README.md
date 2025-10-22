@@ -39,4 +39,4 @@ Linux | Python | HTML | Hardware | ML
 
 ---
 
-> “I learn by making”
+> **“I learn by making”**
