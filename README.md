@@ -7,7 +7,7 @@ I love creating things that can actually do something.
 
 ### 🧠 What I’m focused on
 - 🐍 Learning a bit from everything — Python, hardware, web, you name it
-- 🤖 Exploring **AI and Cyber Security**
+- 🤖 Exploring **Cyber Security and Software**
 - 💻 Building small projects that actually do something
 
 
