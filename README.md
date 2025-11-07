@@ -19,7 +19,7 @@ I love creating things that can actually do something.
 | [Mafia's Betrayal](https://github.com/quinndaamen/Mafias-Betrayal) | My first real tech project — a simple Unity game prototype | C#, Unity | School |
 | [Smart Greenhouse](https://github.com/quinndaamen/Greenhouse-Dashboard) | A dashboard for live plant data that optimizes the plants | Flask, HTML, Python, SQL | School |
 | [AI - Webshop](https://github.com/quinndaamen/AI_webshop) |  | | School |
-| [FreshChoice.bv]([https://github.com/quinndaamen/Greenhouse-Dashboard](https://github.com/quinndaamen/Group-FreshChoice_BV)) | A dashboard for live plant data that optimizes the plants | Flask, HTML, Python, SQL | School - Group |
+| [FreshChoice.bv](https://github.com/quinndaamen/Group-FreshChoice_BV) | A dashboard for live plant data that optimizes the plants | Flask, HTML, Python, SQL | School - Group |
 ---
 
 ### 🧩 Currently learning
