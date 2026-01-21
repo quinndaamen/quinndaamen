@@ -20,6 +20,7 @@ I love creating things that can actually do something.
 | [Smart Greenhouse](https://github.com/quinndaamen/Greenhouse-Dashboard) | A dashboard for live plant data that optimizes the plants | Flask, HTML, Python, SQL | School |
 | [AI - Webshop](https://github.com/quinndaamen/rustwood-art-shop) | An AI made webshop made for Indie artists | GenAI,  | School |
 | [FreshChoice.bv](https://github.com/quinndaamen/Group-FreshChoice_BV) | A solution for Supermarkets to manage Inventory, Employees, and schedules | C#, ASP.NET MVC | School - Group |
+| [SUE](https://github.com/quinndaamen/SUE-Group) | Trying to reduce electricity costs, Optimizing AirQuality, and giving recommendations  | C#, ASP.NET MVC, ML, Raspberry pi | School - Group |
 ---
 
 ### 🧩 Currently learning
