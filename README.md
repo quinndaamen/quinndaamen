@@ -1,15 +1,16 @@
 # 👋 Hello, I'm Quinn Daamen
 
-I'm an ICT student at Fontys who learns by **building and experimenting**.  
-I love creating things that can actually do something.
+ICT student at Fontys focused on **Cyber Security and Cloud Infrastructure**.
+
+I learn by building projects and experimenting with different technologies, from software development to networking and infrastructure.
 
 ---
 
 ###  What I’m focused on
-- Learning a bit from everything — Python, hardware, web, you name it
-- Exploring **Cyber Security and Cloud and Infrastructure**
-- Building small projects that actually do something
-
+- Cyber Security
+- Cloud Infrastructure
+- Networking
+- Linux
 
 ---
 
