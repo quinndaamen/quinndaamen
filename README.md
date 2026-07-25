@@ -5,10 +5,10 @@ I love creating things that can actually do something.
 
 ---
 
-### 🧠 What I’m focused on
-- 🐍 Learning a bit from everything — Python, hardware, web, you name it
-- 🤖 Exploring **Cyber Security and Software**
-- 💻 Building small projects that actually do something
+###  What I’m focused on
+- Learning a bit from everything — Python, hardware, web, you name it
+- Exploring **Cyber Security and Cloud and Infrastructure**
+- Building small projects that actually do something
 
 
 ---
@@ -24,15 +24,11 @@ I love creating things that can actually do something.
 ---
 
 ### 🧩 Currently learning
-- Blind typing  
-- Basics from Python, HTML and C#  
-- How to build better code structure
-- Working with Databases and sensors
 
 ---
 
 ### 🛠️ Tech Stack (Beginner-Level)
-Linux | Python | HTML | Hardware | ML
+Linux | Python | HTML | Hardware | Azure | GNS3 
 
 ---
 
