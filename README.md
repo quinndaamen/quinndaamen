@@ -29,7 +29,7 @@ I learn by building projects and experimenting with different technologies, from
 ---
 
 ### 🛠️ Tech Stack (Beginner-Level)
-Linux | Python | HTML | Hardware | Azure | GNS3 
+Linux | Python | Hardware | Azure | GNS3 
 
 ---
 
