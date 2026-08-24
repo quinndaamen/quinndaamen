@@ -14,7 +14,7 @@ I learn by building projects and experimenting with different technologies, from
 
 ---
 
-### ⚙️ Projects
+### Projects
 | Name | Description | Tech | Type |
 |------|-------------|------|------|
 | [The Knowledge Hub](https://github.com/quinndaamen/knowledge-hub-hybrid-infrastructure) | Built a fictional organization's infrastructure from an on-premises GNS3 network into a hybrid Azure environment. | GNS3, pfSense, Azure, Docker, Python | School |
@@ -23,12 +23,12 @@ I learn by building projects and experimenting with different technologies, from
 | [SIEM Project](https://github.com/quinndaamen/SIEM-Lab) | Building a small security monitoring environment to collect, analyse and investigate logs from different systems. | Wazuh / Elastic, Linux, Windows | Personal |
 ---
 
-### 🧩 Currently learning
+### Currently learning
 - Network security
 - 
 ---
 
-### 🛠️ Tech Stack (Beginner-Level)
+### Tech Stack (Beginner-Level)
 Linux | Python | Hardware | Azure | GNS3 
 
 ---
@@ -42,7 +42,7 @@ These projects helped me build the programming and problem-solving foundation th
 ---
 
 
-### 📫 Connect
+### Connect
 [LinkedIn](https://www.linkedin.com/in/quinn-daamen-654128305/) • [GitHub](https://github.com/quinndaamen)
 
 ---
