@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Quinn Daamen
+# Hello there, I'm Quinn Daamen
 
 ICT student at Fontys focused on **Cyber Security and Cloud Infrastructure**.
 
@@ -15,23 +15,32 @@ I learn by building projects and experimenting with different technologies, from
 ---
 
 ### ⚙️ Projects
-| Name | Description | Tech | For |
-|------|--------------|------|-----|
-| [Mafia's Betrayal](https://github.com/quinndaamen/Mafias-Betrayal) | My first real tech project — a simple Unity game prototype | C#, Unity | School |
-| [Smart Greenhouse](https://github.com/quinndaamen/Greenhouse-Dashboard) | A dashboard for live plant data that optimizes the plants | Flask, HTML, Python, SQL | School |
-| [AI - Webshop](https://github.com/quinndaamen/rustwood-art-shop) | An AI made webshop made for Indie artists | GenAI,  | School |
-| [FreshChoice.bv](https://github.com/quinndaamen/Group-FreshChoice_BV) | A solution for Supermarkets to manage Inventory, Employees, and schedules | C#, ASP.NET MVC | School - Group |
-| [SUE](https://github.com/quinndaamen/Group-SUE) | Trying to reduce electricity costs, Optimizing AirQuality, and giving recommendations  | C#, ASP.NET MVC, ML, Raspberry Pi | School - Group |
+| Name | Description | Tech | Type |
+|------|-------------|------|------|
+| [The Knowledge Hub](https://github.com/quinndaamen/knowledge-hub-hybrid-infrastructure) | Built a fictional organization's infrastructure from an on-premises GNS3 network into a hybrid Azure environment. | GNS3, pfSense, Azure, Docker, Python | School |
+| [File Integrity Monitor](https://github.com/quinndaamen/file-integrity-monitor) | A Python-based FIM that detects changes to monitored files using hashing and event logging. | Python, Hashing, JSON | Personal |
+| [Fonteyn PRP](https://github.com/quinndaamen/knowledge-hub-hybrid-infrastructure/tree/main/Personal%20Research%20Project) | Researched and designed a segmented Azure network focused on reducing lateral movement and improving security. | Azure, NSGs, Bicep, Zero Trust | School / PRP |
+| [SIEM Project](https://github.com/quinndaamen/SIEM-Lab) | Building a small security monitoring environment to collect, analyse and investigate logs from different systems. | Wazuh / Elastic, Linux, Windows | Personal |
 ---
 
 ### 🧩 Currently learning
-
+- Network security
+- 
 ---
 
 ### 🛠️ Tech Stack (Beginner-Level)
 Linux | Python | Hardware | Azure | GNS3 
 
 ---
+
+### Earlier Projects
+
+I have also worked on software development, hardware and application projects during my earlier semesters.
+
+These projects helped me build the programming and problem-solving foundation that I now use in infrastructure and security projects.
+
+---
+
 
 ### 📫 Connect
 [LinkedIn](https://www.linkedin.com/in/quinn-daamen-654128305/) • [GitHub](https://github.com/quinndaamen)
